@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+#container {
+    background: red;
+    margin: auto;
+    width: 75vh;
+    height: 100vh;
+    display: block;
+}
